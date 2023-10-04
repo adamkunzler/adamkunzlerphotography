@@ -1,0 +1,38 @@
+body {
+	padding: 40px;
+	background-color: #1e1c1c;
+	color: #C6C3C0;
+	min-height: 100vh;
+  }
+  
+  .header .lead {
+	max-width: 620px;
+  }
+  
+  .tag-menu
+  {
+	max-width: 900px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+  }
+
+  .tag-filter
+  {
+	margin: 2px 3px 2px 3px;
+	color: #C6C3C0;
+	background-color: #292A2D !important;	
+  }
+
+  .tag-filter:hover
+  {
+	background-color: #454545 !important;
+	cursor: default !important;
+  }
+
+
+  /** Below CSS is completely optional **/
+  
+  .gallery-item {
+	width: 200px;
+	padding: 5px;
+  }

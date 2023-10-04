@@ -1,0 +1,170 @@
+var imageDataJson = `[
+	{
+		"fullsize": "starts_01.jpg",
+		"thumbnail": "starts_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "starts_02.jpg",
+		"thumbnail": "starts_02.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "starts_03.jpg",
+		"thumbnail": "starts_03.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "transplant_01.jpg",
+		"thumbnail": "transplant_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "begin_01.jpg",
+		"thumbnail": "begin_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "begin_02.jpg",
+		"thumbnail": "begin_02.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "begin_03.jpg",
+		"thumbnail": "begin_03.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "middle_01.jpg",
+		"thumbnail": "middle_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_01.jpg",
+		"thumbnail": "current_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_02.jpg",
+		"thumbnail": "current_02.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_03.jpg",
+		"thumbnail": "current_03.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_04.jpg",
+		"thumbnail": "current_04.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_05.jpg",
+		"thumbnail": "current_05.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_06.jpg",
+		"thumbnail": "current_06.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_07.jpg",
+		"thumbnail": "current_07.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_08.jpg",
+		"thumbnail": "current_08.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_09.jpg",
+		"thumbnail": "current_09.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_10.jpg",
+		"thumbnail": "current_10.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "current_11.jpg",
+		"thumbnail": "current_11.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "chocolateSevenPot.jpg",
+		"thumbnail": "chocolateSevenPot.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "lilPot.jpg",
+		"thumbnail": "lilPot.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "thaiRedChiliFerment.jpg",
+		"thumbnail": "thaiRedChiliFerment.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "tomatoes_01.jpg",
+		"thumbnail": "tomatoes_01.jpg",
+		"tags": [
+			"all"
+		]
+	},
+	{
+		"fullsize": "tomatoes_02.jpg",
+		"thumbnail": "tomatoes_02.jpg",
+		"tags": [
+			"all"
+		]
+	}
+]`;
