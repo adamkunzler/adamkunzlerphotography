@@ -44,8 +44,13 @@ function loadGallery(tag) {
 
 	let images = allImages.filter(x => x.tags.includes(tag));
 	images.forEach((image) => {
-		let newDiv = `<a class="gallery-item" data-src="assets/${image.fullsize}">`;
+		let newDiv = `<a class="gallery-item" data-src="assets/${image.fullsize}"`;
+		
+		let html = image.html ?? '';
+		newDiv += ` data-sub-html="${html}">`;	
+
 		newDiv += `<img class="img-responsive" src="assets/${image.thumbnail}" />`;
+		
 		newDiv += '</a>';
 
 		galleryDiv.append(newDiv);
